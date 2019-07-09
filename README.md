@@ -1,1 +1,11 @@
-hello world, I'm going to be a git commit! Hi Mom
+# My Second Repo
+
+Hello, this is my repo
+
+## heading
+
+List: 
+* one
+* two
+
+
